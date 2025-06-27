@@ -57,4 +57,4 @@ This is a beginner-friendly PySpark project that analyzes online retail customer
 
 ---
 
-Made with ❤️ by [Sharath Naik](https://www.linkedin.com/in/sharathnaikbc/)
+Made with ❤️ by [Sharath Naik](https://www.linkedin.com/in/:sharathnaikBC)

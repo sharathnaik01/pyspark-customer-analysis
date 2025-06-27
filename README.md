@@ -40,7 +40,7 @@ This is a beginner-friendly PySpark project that analyzes online retail customer
 
 #### 🔹 Total Spending by City
 
-![City Spending](images/city_spending_chart.png)
+![City Spending](city_spending_chart.png)
 
 ---
 

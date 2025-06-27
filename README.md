@@ -36,7 +36,7 @@ This is a beginner-friendly PySpark project that analyzes online retail customer
 
 #### 🔹 Top 5 Products by Quantity Sold
 
-![Top Products](images/top_products_chart.png)
+![Top Products](top_products_chart.png)
 
 #### 🔹 Total Spending by City
 
